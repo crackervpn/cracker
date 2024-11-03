@@ -63,6 +63,7 @@ h2 {
 --white: #ffffff;
 --af-white: #f3f3f3;
 --ch-white: #e1e1e1;
+text-decoration: none;
 border-radius: 8px;
 width: 140px;
 height: 40px;
